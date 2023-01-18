@@ -1,4 +1,4 @@
-firstname,lastname,completename
+first_name,last_name,complete_name
 Michael,Scott,Michael Scott
 Jim,Halpert,Jim Halpert
 Dwight,Schrute,Dwight Schrute
@@ -20,7 +20,7 @@ Jo,Bennett,Jo Bennett
 Holly,Flax,Holly Flax
 Jan,Levinson,Jan Levinson
 Todd,Packer,Todd Packer
-Charles,Minor,Charles Minor
+Charles,Miner,Charles Miner
 Deangelo,Vickers,Deangelo Vickers
 Josh,Porter,Josh Porter
 Ed,Truck,Ed Truck
