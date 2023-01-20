@@ -1,0 +1,1 @@
+select * from writers order by info_episodes_episode_id desc;
