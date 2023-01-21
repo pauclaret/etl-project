@@ -56,6 +56,7 @@ DEFAULT CHARACTER SET = utf8mb3;
 CREATE TABLE IF NOT EXISTS `the_office_db`.`lines` (
   `line_id` INT NOT NULL,
   `season` INT NOT NULL,
+  `episode` INT NOT NULL,
   `scene` INT NOT NULL,
   `line_text` VARCHAR(3000) NOT NULL,
   `first_name` VARCHAR(1000) NOT NULL,
