@@ -33,5 +33,6 @@ Here are some of the libraries I used in this project:
 - selenium: a library that allows you to automate web browsers and interact with web pages programmatically.
 - requests: a library that allows you to send HTTP requests in Python and handle the response.
 
-I hope you enjoy exploring the project as much as I enjoyed creating it 🧑‍💻
 
+
+<strong>I hope you enjoy exploring the project as much as I enjoyed creating it!</strong> 🧑‍💻
