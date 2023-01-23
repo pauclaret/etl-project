@@ -1,7 +1,8 @@
 # The Office Data Analysis 💼📊🚀
-Welcome to my repository! I am motivated to share with you the results of my data analysis project on The Office, a beloved American sitcom. From the beginning, I was determined to uncover insights about the show using a variety of tools and techniques to extract, clean, and analyze data.
 
-The main objective of this project was to extract, clean, and analyze data from various sources in order to gain a deeper understanding of the show and its characters. I aimed to answer questions such as: Which episodes were the most popular? Who are the most beloved characters? And what can we learn about the show's audience?
+Welcome to my repository! 😀 I am motivated to share with you the results of my ETL (Extract, Transform, Load) project on The Office, a beloved American sitcom. This involves extracting data from various sources using API and Selenium, cleaning and transforming the data, loading it into a database using SQL for further analysis and gaining insights about the show and its characters by visualizating the data using Seaborn and Matplotlib.
+
+As you can see, the main objective of this project was to extract, clean, and analyze data from various sources in order to gain a deeper understanding of the show and its characters. I aimed to answer questions such as: Which episodes were the most popular? Who are the most beloved characters? And what can we learn about the show's audience?
 
 <img src="https://cdn.wallpapersafari.com/86/33/SRW65J.jpg" alt="Michael Scott">
 
@@ -32,6 +33,5 @@ Here are some of the libraries I used in this project:
 - selenium: a library that allows you to automate web browsers and interact with web pages programmatically.
 - requests: a library that allows you to send HTTP requests in Python and handle the response.
 
-
-I hope you enjoy exploring the project as much as I enjoyed creating it. And remember, "That's what she said."
+I hope you enjoy exploring the project as much as I enjoyed creating it 🧑‍💻
 
