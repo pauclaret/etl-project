@@ -3,6 +3,10 @@ Welcome to my repository! I am motivated to share with you the results of my dat
 
 The main objective of this project was to extract, clean, and analyze data from various sources in order to gain a deeper understanding of the show and its characters. I aimed to answer questions such as: Which episodes were the most popular? Who are the most beloved characters? And what can we learn about the show's audience?
 
+<img src="https://cdn.wallpapersafari.com/86/33/SRW65J.jpg" alt="Michael Scott">
+
+## Navigating through the repository folders:
+
 ### Data 📥
 I began by extracting data from different sources using Selenium and an API, and then I cleaned and preprocessed the data using Jupyter. The extracted data contains information about the episodes and characters of The Office.
 
