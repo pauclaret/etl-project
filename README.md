@@ -1,6 +1,6 @@
 # The Office Data Analysis 💼📊🚀
 
-Welcome to my repository! 😀 I am excited to share with you the results of my ETL (Extract, Transform, Load) project on The Office, a beloved American sitcom. This project involved extracting data from various sources using both API calls and web scraping techniques with Selenium, cleaning and preprocessing the data using the powerful Pandas library in Python, and loading the data into a SQL database for further analysis and gaining insights about the show and its characters by visualizing the data using the Seaborn and Matplotlib libraries.
+Welcome to my repository! 😀 I am excited to share with you the results of my ETL (Extract, Transform, Load) project on The Office, a beloved American sitcom. This project involved extracting data from various sources using both API calls and web scraping techniques with <a href='https://www.selenium.dev/'>Selenium</a>, cleaning and preprocessing the data using the powerful <a href='https://pandas.pydata.org/'>Pandas</a> library in Python, and loading the data into a SQL database for further analysis and gaining insights about the show and its characters by visualizing the data using the <a href='https://seaborn.pydata.org/'>Seaborn</a> and <a href='https://matplotlib.org/stable/index.html'>Matplotlib</a> libraries.
 
 <img src="https://cdn.wallpapersafari.com/86/33/SRW65J.jpg" alt="Michael Scott">
 
